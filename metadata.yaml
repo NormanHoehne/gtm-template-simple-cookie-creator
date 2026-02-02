@@ -1,8 +1,6 @@
 homepage: "https://digitalmarketing.engineer/"
 # documentation: ""
 versions:
-  - sha: 9e3164dad5cc9a7dd10b4624b5fd8accb77d951a
-    changeNotes: Renamed template file to template.tpl
   # First release
-  - sha: fbe74575dd9767eb7d5763748bdc0ca1058d40f7
+  - sha: 9e3164dad5cc9a7dd10b4624b5fd8accb77d951a
     changeNotes: Initial release of Simple Cookie Creator.
