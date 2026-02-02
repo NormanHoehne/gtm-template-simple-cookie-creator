@@ -1,0 +1,6 @@
+homepage: "https://digitalmarketing.engineer/"
+# documentation: ""
+versions:
+  # First release
+  - sha: fbe74575dd9767eb7d5763748bdc0ca1058d40f7
+    changeNotes: Initial release of Simple Cookie Creator.
